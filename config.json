@@ -1,0 +1,71 @@
+{
+  "collection_name": "Alliance Forge Commander Helmet",
+  "collection_size": 1000,
+  "image_width": 1000,
+  "image_height": 1000,
+  "layers": [
+    {
+      "name": "background",
+      "directory": "layers/background",
+      "required": true,
+      "rarity_weights": {
+        "Space Blue": 30,
+        "Cosmic Purple": 25,
+        "Nebula Red": 20,
+        "Solar Yellow": 15,
+        "Deep Black": 10
+      }
+    },
+    {
+      "name": "base",
+      "directory": "layers/base",
+      "required": true,
+      "rarity_weights": {
+        "Standard Helmet": 40,
+        "Heavy Helmet": 30,
+        "Elite Helmet": 20,
+        "Legendary Helmet": 8,
+        "Mythic Helmet": 2
+      }
+    },
+    {
+      "name": "visor",
+      "directory": "layers/visor",
+      "required": true,
+      "rarity_weights": {
+        "Clear Visor": 35,
+        "Blue Tint": 25,
+        "Red Tint": 20,
+        "Gold Tint": 12,
+        "Holographic": 5,
+        "Void Visor": 3
+      }
+    },
+    {
+      "name": "accent",
+      "directory": "layers/accent",
+      "required": false,
+      "rarity_weights": {
+        "None": 40,
+        "Battle Scars": 20,
+        "Alliance Insignia": 15,
+        "Energy Lines": 12,
+        "Command Stripes": 8,
+        "Forge Emblem": 5
+      }
+    },
+    {
+      "name": "effects",
+      "directory": "layers/effects",
+      "required": false,
+      "rarity_weights": {
+        "None": 50,
+        "Particle Glow": 20,
+        "Energy Aura": 15,
+        "Tactical HUD": 10,
+        "Plasma Field": 4,
+        "Quantum Distortion": 1
+      }
+    }
+  ]
+}
