@@ -1,0 +1,10 @@
+{
+  "Common": 400,
+  "Uncommon": 200,
+  "Rare": 150,
+  "Epic": 100,
+  "Legendary": 70,
+  "Mythic": 50,
+  "Core": 27,
+  "Artisan": 3
+}
