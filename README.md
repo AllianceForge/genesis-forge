@@ -1,4 +1,4 @@
-# Genesis Forgers — Alliance Forge Commander Helmet NFT Collection
+# Genesis Forge — Alliance Forge Commander Helmet NFT Collection
 
 A foundational collection of 1,000 unique, generative NFTs based on the iconic Alliance Forge Commander Helmet.  
 Each NFT is constructed from layered generative art, reflecting rarity, color, and a distinct visual identity rooted in the tactical, futuristic Alliance Forge universe.
