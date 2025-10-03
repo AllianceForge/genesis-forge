@@ -5,10 +5,10 @@ Each NFT is constructed from layered generative art, reflecting rarity, color, a
 
 ## Project Overview
 
-Genesis Forgers aims to raise capital for continued game development, build the core Alliance Forge community, and establish the brand’s visual identity.
+Genesis Forgers aims to raise capital for ongoing game development, build the core Alliance Forge community, and establish the brand’s visual identity.
 
 - **Blockchain:** Cronos (ERC-721 standard)
-- **Total Supply:** 1,000 NFTs + 3-5 unique "Artisan Helmets"
+- **Total Supply:** 1,000 NFTs + 3–5 unique "Artisan Helmets"
 - **Editions & Rarities:** 7 color/tiers, including exclusive 1-of-1 “Artisan Helmets”
 - **Generative Layers:** Background, Helmet Plating, Visor Optics, AF Logo, Side Attachment, Condition, Aura
 - **Utilities:** Exclusive Discord access, whitelist for future drops, in-game rewards, and more
@@ -24,7 +24,7 @@ Genesis Forgers aims to raise capital for continued game development, build the 
 | Legendary    | Vibrant Coral       | #FF7F50   | 70            |
 | Mythic       | Fiery Red           | #FF4500   | 50            |
 | Core         | Bright Gold         | #FFD700   | 27            |
-| Artisan      | Unique 1-of-1s      | Varies    | 3-5           |
+| Artisan      | Unique 1-of-1s      | Varies    | 3–5           |
 
 > **See `config/rarity_allocation.json` for precise distribution.**
 
@@ -42,7 +42,7 @@ All NFTs are generated from seven distinct layers:
 ## Special Features
 
 - **Animated Traits:** NFTs of Epic rarity and higher feature animated Visor, Logo, and Aura layers.
-- **Artisan Helmets:** 3-5 unique, hand-crafted 1-of-1 NFTs reserved for special holders.
+- **Artisan Helmets:** 3–5 unique, hand-crafted 1-of-1 NFTs reserved for special holders.
 
 ## Holder Benefits
 
@@ -76,7 +76,7 @@ All NFTs are generated from seven distinct layers:
    cd genesis-forge
    ```
 2. **Install dependencies**
-   *(Add requirements here if you have a requirements.txt or package.json)*
+   *(Add a requirements.txt or package.json if needed)*
 3. **Configure your collection**
    - Edit `config/rarity_allocation.json` to set the supply per tier.
    - Place your layer assets in the appropriate folders under `/layers/`.
