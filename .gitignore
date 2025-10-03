@@ -1,0 +1,10 @@
+output/
+layers/
+*.psd
+*.ai
+*.svg
+*.png
+*.jpg
+__pycache__/
+.DS_Store
+.env
